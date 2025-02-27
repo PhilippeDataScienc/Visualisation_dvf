@@ -359,6 +359,12 @@ st.sidebar.info(
     """
 )
 
-# Add footer
-st.markdown("---")
-st.caption("Application développée pour l'analyse des données DVF")
+# Add footer with copyright
+footer_html = """
+<div style="text-align: center; margin-top: 30px; opacity: 0.8;">
+    <hr>
+    <p>© 2025 Philippe Acquier. Tous droits réservés.</p>
+    <p>Application développée pour l'analyse des données DVF</p>
+</div>
+"""
+st.markdown(footer_html, unsafe_allow_html=True)

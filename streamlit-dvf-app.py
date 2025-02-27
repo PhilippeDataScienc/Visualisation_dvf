@@ -354,8 +354,6 @@ st.sidebar.info(
     - N'hésitez pas à télécharger les sections cadastrales adjascentes pour des statistiques plus représentatives
     2. Utilisez les filtres pour sélectionner les propriétés qui vous intéressent
     3. Explorez les visualisations (boxplots et carte)
-    
-    Les données DVF plus larges sont disponibles sur [le site officiel](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/)
     """
 )
 

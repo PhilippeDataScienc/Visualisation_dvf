@@ -49,7 +49,7 @@ plotly
 
 1. Lancez l'application :
 ```bash
-streamlit run app.py
+streamlit run streamlit-dvf-app.py
 ```
 
 2. Accédez à l'application dans votre navigateur (généralement à l'adresse http://localhost:8501)
@@ -76,7 +76,7 @@ L'application attend des fichiers CSV au format DVF standard, avec au minimum le
 
 ```
 analyseur-dvf/
-├── app.py              # Application Streamlit principale
+├── streamlit-dvf-app.py              # Application Streamlit principale
 ├── requirements.txt    # Dépendances Python
 └── README.md           # Ce fichier
 ```

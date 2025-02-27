@@ -347,10 +347,15 @@ st.sidebar.info(
     
     Pour commencer:
     1. Téléchargez un ou plusieurs fichiers CSV ou une archive ZIP contenant les fichiers
+    Recommandation pour une recherche ciblée : 
+    - allez sur le site [DVF](https://app.dvf.etalab.gouv.fr/)
+    - Sélectionnez le département, la commune et la section cadastrale d'intérêt
+    - Cliquez sur "Télécharger les mutations de la section"
+    - N'hésitez pas à télécharger les sections cadastrales adjascentes pour des statistiques plus représentatives
     2. Utilisez les filtres pour sélectionner les propriétés qui vous intéressent
     3. Explorez les visualisations (boxplots et carte)
     
-    Les données DVF sont disponibles sur [le site officiel](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/)
+    Les données DVF plus larges sont disponibles sur [le site officiel](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/)
     """
 )
 

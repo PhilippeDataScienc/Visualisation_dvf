@@ -337,7 +337,7 @@ else:
     if uploaded_files or zip_file:
         st.error("Impossible de traiter les données. Veuillez vérifier les fichiers téléchargés.")
     else:
-        st.info("Veuillez télécharger des fichiers CSV du DVF ou une archive ZIP contenant ces fichiers pour commencer l'analyse.")
+        st.info("Veuillez télécharger des fichiers CSV du DVF")
 
 # Add information section
 st.sidebar.header("Informations")

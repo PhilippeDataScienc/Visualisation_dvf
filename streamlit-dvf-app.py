@@ -17,9 +17,9 @@ MAX_PRICE = st.sidebar.number_input("Prix maximum au m² (€/m²)", value=10000
 
 # File upload section
 st.header("1. Chargement des données")
-st.write("Téléchargez les fichiers CSV du DVF ou une archive ZIP contenant ces fichiers.")
+st.write("Téléchargez les fichiers CSV du DVF.")
 
-upload_option = st.radio("Méthode de téléchargement", ["Fichiers CSV", "Archive ZIP"])
+upload_option = st.radio("Méthode de téléchargement", ["Fichiers CSV"])
 
 if upload_option == "Fichiers CSV":
     uploaded_files = st.file_uploader("Téléchargez les fichiers CSV", type="csv", accept_multiple_files=True)

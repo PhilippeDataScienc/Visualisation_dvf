@@ -2,7 +2,12 @@
 
 Cette application Streamlit permet d'analyser et visualiser les données DVF (Demandes de Valeur Foncière) pour surveiller les tendances du marché immobilier en France. Elle transforme des fichiers CSV bruts en visualisations interactives qui aident à comprendre les prix de l'immobilier par type de bien, nombre de pièces et localisation.
 
-![Screenshot de l'application](https://via.placeholder.com/800x450?text=Screenshot+de+l%27application)
+## Screenshot de l'application
+![image](https://github.com/user-attachments/assets/9ef02333-faff-474c-be47-25a9a2e289a2)
+![image](https://github.com/user-attachments/assets/8a25542b-6fc0-4669-816c-c761435c245b)
+![image](https://github.com/user-attachments/assets/b64e0a4f-aedd-4894-9048-a8d3793d8ba9)
+
+
 
 ## 🚀 Fonctionnalités
 
